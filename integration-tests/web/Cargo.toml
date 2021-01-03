@@ -9,7 +9,7 @@ edition = "2018"
 crate-type = ["cdylib"]
 
 [dependencies]
-cgmath = "0.17"
+cgmath = "0.18"
 colored = "2"
 luminance = "0.43"
 luminance-front = "0.3"
